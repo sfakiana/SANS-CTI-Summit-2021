@@ -24,3 +24,4 @@ This repository includes the references used for the presentation titled "Still 
 20. Alessandra de Melo e Silva, João José Costa Gondim, Robson de Oliveira Albuquerque and Luis Javier García Villalba - A Methodology to Evaluate Standards and Platforms within Cyber Threat Intelligence - https://www.mdpi.com/1999-5903/12/6/108/pdf
 21. Sara Bauer, Daniel Fischer, Clemens Sauerwein, Simon Latzel, Dirk Stelzer, Ruth Breu - Towards an Evaluation Framework for Threat Intelligence Sharing Platform - https://scholarspace.manoa.hawaii.edu/bitstream/10125/63978/1/0193.pdf
 22. SANS CTI Summit 2016 - Rick Holland - Threat Intelligence Awakens - https://speakerdeck.com/rick_holland/threat-intelligence-awakens
+23. threatintel.eu - Andreas Sfakianakis - A Study on Threat Intelligence Platforms (TIPs) - https://threatintel.eu/2018/04/04/a-study-on-threat-intelligence-platforms/
