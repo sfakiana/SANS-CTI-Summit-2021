@@ -1,7 +1,7 @@
 # SANS CTI Summit 2021
 This repository includes the references used for the presentation titled "Still thinking about your Ex(cel)? Here are some TIPs" (alternative title is Technology enablement in the intelligence cycle and the role of Threat Intelligence Platforms). The presentation took place during SANS CTI Summit 2021 on 21-22 January 2021.
 
-1. ENISA - Andreas Sfakianakis, Razvna Gavrila - Exploring the opportunities and limitations of current Threat Intelligence Platforms
+1. ENISA - Andreas Sfakianakis, Razvan Gavrila - Exploring the opportunities and limitations of current Threat Intelligence Platforms
  https://www.enisa.europa.eu/publications/exploring-the-opportunities-and-limitations-of-current-threat-intelligence-platforms
 2. BSidesNOVA - Jason Wonn - Track 2 - TIP of the Spear: A Threat Intelligence Platform Acquisition https://www.youtube.com/watch?v=ynm90wZLjNY&feature=emb_logo
 3. SANS - 2019 CTI Survey - https://www.sans.org/reading-room/whitepapers/analyst/evolution-cyber-threat-intelligence-cti-2019-cti-survey-38790
