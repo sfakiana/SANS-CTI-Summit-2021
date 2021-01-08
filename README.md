@@ -25,3 +25,4 @@ This repository includes the references used for the presentation titled "Still 
 21. Sara Bauer, Daniel Fischer, Clemens Sauerwein, Simon Latzel, Dirk Stelzer, Ruth Breu - Towards an Evaluation Framework for Threat Intelligence Sharing Platform - https://scholarspace.manoa.hawaii.edu/bitstream/10125/63978/1/0193.pdf
 22. SANS CTI Summit 2016 - Rick Holland - Threat Intelligence Awakens - https://speakerdeck.com/rick_holland/threat-intelligence-awakens
 23. threatintel.eu - Andreas Sfakianakis - A Study on Threat Intelligence Platforms (TIPs) - https://threatintel.eu/2018/04/04/a-study-on-threat-intelligence-platforms/
+24. Andy Piazza - Considerations for Leveraging Cyber Threat Feeds Effectively - https://klrgrz.medium.com/considerations-for-leveraging-cyber-threat-feeds-effectively-1d1cfa9fb140
