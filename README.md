@@ -27,3 +27,5 @@ This repository includes the references used for the presentation titled "Still 
 23. threatintel.eu - Andreas Sfakianakis - A Study on Threat Intelligence Platforms (TIPs) - https://threatintel.eu/2018/04/04/a-study-on-threat-intelligence-platforms/
 24. Andy Piazza - Considerations for Leveraging Cyber Threat Feeds Effectively - https://klrgrz.medium.com/considerations-for-leveraging-cyber-threat-feeds-effectively-1d1cfa9fb140
 25. FireEye - Excelerating Analysis, Part 2 — X[LOOKUP] Gon’ Pivot To Ya - https://www.fireeye.com/blog/threat-research/2020/04/excelerating-analysis-lookup-pivot.html
+26. SANS CTI Summit 2016 - Scott J Roberts - Community Intelligence & Open Source Tools: Building an Actionable Pipeline - https://speakerdeck.com/sroberts/community-intelligence-and-open-source-tools
+27. 
