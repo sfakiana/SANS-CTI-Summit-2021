@@ -19,7 +19,7 @@ This repository includes the references used for the presentation titled "Still 
 15. Adam Zibak and Andrew Simpson - Cyber Threat Information Sharing: Perceived Benefits and Barriers - https://www.researchgate.net/publication/335084010_Cyber_Threat_Information_Sharing_Perceived_Benefits_and_Barriers
 16. Lockheed Martin - Practical Steps To Securing Process Control Networks - https://docplayer.net/9025143-Practical-steps-to-securing-process-control-networks.html
 17. FireEye - Excelerating Analysis – Tips and Tricks to Analyze Data with Microsoft Excel - https://www.fireeye.com/blog/threat-research/2019/12/tips-and-tricks-to-analyze-data-with-microsoft-excel.html
-18. SANS CTI Summit 2020 - Andreas Sfakianakis - Stop Tilting at Windmills: Three Key Lessons that CTI Teams Should Learn from the Past - http://www.sans.org/cyber-security-summit/archives/download/23595
+18. SANS CTI Summit 2020 - Andreas Sfakianakis - Stop Tilting at Windmills: Three Key Lessons that CTI Teams Should Learn from the Past - https://www.youtube.com/watch?v=kGqnCR6XOhQ
 19. USENIX Security 2020 - Xander Bouwman, Harm Griffioen, Jelle Egbers, Christian Doerr, Bram Klievink, Michel van Eeten - https://www.usenix.org/conference/usenixsecurity20/presentation/bouwman 
 20. Alessandra de Melo e Silva, João José Costa Gondim, Robson de Oliveira Albuquerque and Luis Javier García Villalba - A Methodology to Evaluate Standards and Platforms within Cyber Threat Intelligence - https://www.mdpi.com/1999-5903/12/6/108/pdf
 21. Sara Bauer, Daniel Fischer, Clemens Sauerwein, Simon Latzel, Dirk Stelzer, Ruth Breu - Towards an Evaluation Framework for Threat Intelligence Sharing Platform - https://scholarspace.manoa.hawaii.edu/bitstream/10125/63978/1/0193.pdf
