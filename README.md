@@ -1,7 +1,7 @@
 # SANS CTI Summit 2021
 This repository includes the references used for the presentation titled "Still thinking about your Ex(cel)? Here are some TIPs" (alternative title is Technology enablement in the intelligence cycle and the role of Threat Intelligence Platforms). The presentation took place during SANS CTI Summit 2021 on 21-22 January 2021.
 
-The brief history of TIPs
+# The brief history of TIPs
 
 1. SANS CTI Summit 2020 - Andreas Sfakianakis - Stop Tilting at Windmills: Three Key Lessons that CTI Teams Should Learn from the Past - https://www.youtube.com/watch?v=kGqnCR6XOhQ
 2. Gartner - Technology Overview for Threat Intelligence Platforms - https://www.gartner.com/doc/2941522/technology-overview-threat-intelligence-platforms
@@ -15,7 +15,7 @@ The brief history of TIPs
 10. FireEye - Excelerating Analysis, Part 2 — X[LOOKUP] Gon’ Pivot To Ya - https://www.fireeye.com/blog/threat-research/2020/04/excelerating-analysis-lookup-pivot.html
 11. SANS CTI Summit 2016 - Scott J Roberts - Community Intelligence & Open Source Tools: Building an Actionable Pipeline - https://speakerdeck.com/sroberts/community-intelligence-and-open-source-tools
 
-Current state of TIPs
+# Current state of TIPs
 
 11. ENISA - Andreas Sfakianakis, Razvan Gavrila - Exploring the opportunities and limitations of current Threat Intelligence Platforms
  https://www.enisa.europa.eu/publications/exploring-the-opportunities-and-limitations-of-current-threat-intelligence-platforms
@@ -33,6 +33,7 @@ Current state of TIPs
 23. Sara Bauer, Daniel Fischer, Clemens Sauerwein, Simon Latzel, Dirk Stelzer, Ruth Breu - Towards an Evaluation Framework for Threat Intelligence Sharing Platform - https://scholarspace.manoa.hawaii.edu/bitstream/10125/63978/1/0193.pdf
 24. 
 
-Looking ahead
+# Looking ahead
+
 2. BSidesNOVA - Jason Wonn - TIP of the Spear: A Threat Intelligence Platform Acquisition https://www.youtube.com/watch?v=ynm90wZLjNY&feature=emb_logo
 ReportLinker - Assessment of the Global Threat Intelligence Platforms Market, Forecast to 2022 - https://www.reportlinker.com/p05974250/Assessment-of-the-Global-Threat-Intelligence-Platforms-Market-Forecast-to.html?utm_source=GNW
