@@ -2,6 +2,7 @@
 This repository includes the references used for the presentation titled "Still thinking about your Ex(cel)? Here are some TIPs" (alternative title is Technology enablement in the intelligence cycle and the role of Threat Intelligence Platforms). The presentation took place during SANS CTI Summit 2021 on 21-22 January 2021.
 
 The brief history of TIPs
+
 1. SANS CTI Summit 2020 - Andreas Sfakianakis - Stop Tilting at Windmills: Three Key Lessons that CTI Teams Should Learn from the Past - https://www.youtube.com/watch?v=kGqnCR6XOhQ
 2. Gartner - Technology Overview for Threat Intelligence Platforms - https://www.gartner.com/doc/2941522/technology-overview-threat-intelligence-platforms
 3. Lockheed Martin - Practical Steps To Securing Process Control Networks - https://docplayer.net/9025143-Practical-steps-to-securing-process-control-networks.html
@@ -15,6 +16,7 @@ The brief history of TIPs
 11. SANS CTI Summit 2016 - Scott J Roberts - Community Intelligence & Open Source Tools: Building an Actionable Pipeline - https://speakerdeck.com/sroberts/community-intelligence-and-open-source-tools
 
 Current state of TIPs
+
 11. ENISA - Andreas Sfakianakis, Razvan Gavrila - Exploring the opportunities and limitations of current Threat Intelligence Platforms
  https://www.enisa.europa.eu/publications/exploring-the-opportunities-and-limitations-of-current-threat-intelligence-platforms
 12. S. Caltagirone,  Threat Intelligence Definition: What is Old is New Again - http://www.activeresponse.org/threat-intelligence-definition-old-new/
