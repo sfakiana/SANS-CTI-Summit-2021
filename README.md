@@ -11,6 +11,7 @@ This repository includes the references used for the presentation titled "Still 
 6. 4. SEI Carnegie Mellon University - Cyber Intelligence Tradecraft Report - https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=546686
 7. ENISA Threat Landscape 2020 - Cyber Threat Intelligence Overview - https://www.enisa.europa.eu/publications/cyberthreat-intelligence-overview
 8. SANS CTI Summit 2016 - Rick Holland - Threat Intelligence Awakens - https://speakerdeck.com/rick_holland/threat-intelligence-awakens
+14. RSA 2015 - Rick Holland - Threat Intelligence Is Like Three Day Potty Training - https://www.slideshare.net/cisoplatform7/cxo-t08rthreatintelligenceislikethreedaypottytraining
 9. FireEye - Excelerating Analysis – Tips and Tricks to Analyze Data with Microsoft Excel - https://www.fireeye.com/blog/threat-research/2019/12/tips-and-tricks-to-analyze-data-with-microsoft-excel.html
 10. FireEye - Excelerating Analysis, Part 2 — X[LOOKUP] Gon’ Pivot To Ya - https://www.fireeye.com/blog/threat-research/2020/04/excelerating-analysis-lookup-pivot.html
 11. SANS CTI Summit 2016 - Scott J Roberts - Community Intelligence & Open Source Tools: Building an Actionable Pipeline - https://speakerdeck.com/sroberts/community-intelligence-and-open-source-tools
@@ -22,7 +23,7 @@ This repository includes the references used for the presentation titled "Still 
 12. S. Caltagirone,  Threat Intelligence Definition: What is Old is New Again - http://www.activeresponse.org/threat-intelligence-definition-old-new/
 11. threatintel.eu - Requirements Spreadsheet for Threat Intelligence Platforms - https://threatintel.eu/2021/01/11/requirements-spreadsheet-for-threat-intelligence-platforms/
 13. Andy Piazza - https://medium.com/@andy.c.piazza/an-analysts-need-for-a-threat-intelligence-platform-43f9258ac22d
-14. Rick Holland - Threat Intelligence Is Like Three Day Potty Training - https://www.slideshare.net/cisoplatform7/cxo-t08rthreatintelligenceislikethreedaypottytraining
+
 15. threatintel.eu - Andreas Sfakianakis - A Study on Threat Intelligence Platforms (TIPs) - https://threatintel.eu/2018/04/04/a-study-on-threat-intelligence-platforms/
 17. WI 2017 - C. Sauerwein, C. Sillaber, A. Mussmann and R. Breu- Threat Intelligence Sharing Platforms: An Exploratory Study of Software Vendors and Research Perspectives - https://wi2017.ch/images/wi2017-0188.pdf
 18. WISCS 14 - O. Serrano, L. Dandurand and S. Brown - On the design of a cyber security data sharing system - https://dl.acm.org/doi/10.1145/2663876.2663882
