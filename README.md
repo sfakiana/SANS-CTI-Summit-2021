@@ -23,9 +23,7 @@ This repository includes the references used for the presentation titled "Still 
 11. threatintel.eu - Requirements Spreadsheet for Threat Intelligence Platforms - https://threatintel.eu/2021/01/11/requirements-spreadsheet-for-threat-intelligence-platforms/
 13. Andy Piazza - https://medium.com/@andy.c.piazza/an-analysts-need-for-a-threat-intelligence-platform-43f9258ac22d
 14. Rick Holland - Threat Intelligence Is Like Three Day Potty Training - https://www.slideshare.net/cisoplatform7/cxo-t08rthreatintelligenceislikethreedaypottytraining
-23. threatintel.eu - Andreas Sfakianakis - TIPs: An Exploratory Study of Software Vendors and Research Perspectives - https://threatintel.eu/2017/02/27/tips-an-exploratory-study-of-software-vendors-and-research-perspectives/
 15. threatintel.eu - Andreas Sfakianakis - A Study on Threat Intelligence Platforms (TIPs) - https://threatintel.eu/2018/04/04/a-study-on-threat-intelligence-platforms/
-16. Secrypt2019 - Mario Faiella, Gustavo Gonzalez-Granadillo, Iberia Medeiros, Rui Azevedo , and Susana Gonzalez-Zarzosa - Enriching Threat Intelligence Platforms Capabilities - http://www.di.fc.ul.pt/~imedeiros/papers/Secrypt2019_TEPT.pdf
 17. WI 2017 - C. Sauerwein, C. Sillaber, A. Mussmann and R. Breu- Threat Intelligence Sharing Platforms: An Exploratory Study of Software Vendors and Research Perspectives - https://wi2017.ch/images/wi2017-0188.pdf
 18. WISCS 14 - O. Serrano, L. Dandurand and S. Brown - On the design of a cyber security data sharing system - https://dl.acm.org/doi/10.1145/2663876.2663882
 19. WISCS 15 - S. Brown, J. Gommers and O. Serrano, - From Cyber Security Information Sharing to Threat Management - https://dl.acm.org/doi/abs/10.1145/2808128.2808133
@@ -33,7 +31,7 @@ This repository includes the references used for the presentation titled "Still 
 21. Adam Zibak and Andrew Simpson - Cyber Threat Information Sharing: Perceived Benefits and Barriers - https://www.researchgate.net/publication/335084010_Cyber_Threat_Information_Sharing_Perceived_Benefits_and_Barriers
 22. Alessandra de Melo e Silva, João José Costa Gondim, Robson de Oliveira Albuquerque and Luis Javier García Villalba - A Methodology to Evaluate Standards and Platforms within Cyber Threat Intelligence - https://www.mdpi.com/1999-5903/12/6/108/pdf
 23. Sara Bauer, Daniel Fischer, Clemens Sauerwein, Simon Latzel, Dirk Stelzer, Ruth Breu - Towards an Evaluation Framework for Threat Intelligence Sharing Platform - https://scholarspace.manoa.hawaii.edu/bitstream/10125/63978/1/0193.pdf
-24. 
+24. threatintel.eu - Andreas Sfakianakis - TIPs: An Exploratory Study of Software Vendors and Research Perspectives - https://threatintel.eu/2017/02/27/tips-an-exploratory-study-of-software-vendors-and-research-perspectives/
 
 # Looking ahead
 
