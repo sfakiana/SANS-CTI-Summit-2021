@@ -33,7 +33,7 @@ This repository includes the references used for the presentation titled "Still 
 22. Alessandra de Melo e Silva, João José Costa Gondim, Robson de Oliveira Albuquerque and Luis Javier García Villalba - A Methodology to Evaluate Standards and Platforms within Cyber Threat Intelligence - https://www.mdpi.com/1999-5903/12/6/108/pdf
 23. Sara Bauer, Daniel Fischer, Clemens Sauerwein, Simon Latzel, Dirk Stelzer, Ruth Breu - Towards an Evaluation Framework for Threat Intelligence Sharing Platform - https://scholarspace.manoa.hawaii.edu/bitstream/10125/63978/1/0193.pdf
 24. threatintel.eu - Andreas Sfakianakis - TIPs: An Exploratory Study of Software Vendors and Research Perspectives - https://threatintel.eu/2017/02/27/tips-an-exploratory-study-of-software-vendors-and-research-perspectives/
-
+25. FIRST CTI 2019 - Pasquale Stirparo - Your requirements are not my requirements - https://www.first.org/resources/papers/london2019/1430-1500-Your-Requirements-are-Not-My-Requirements-Speaker-Pasquale-Stirparo.pdf
 # Looking ahead
 
 2. BSidesNOVA - Jason Wonn - TIP of the Spear: A Threat Intelligence Platform Acquisition https://www.youtube.com/watch?v=ynm90wZLjNY&feature=emb_logo
