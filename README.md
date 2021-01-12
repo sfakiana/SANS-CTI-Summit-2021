@@ -46,7 +46,124 @@ This repository includes the references used for the presentation titled "Still 
 <table>
     <tr>
         <td>
-            <a href="https://www.sans.org/reading-room/whitepapers/ActiveDefense/paper/36240" target="_blank">Collaborative
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://crits.github.io/" target="_blank">Collaborative
 Research Into Threats (CRITs)</a>
         </td>
         <td>
