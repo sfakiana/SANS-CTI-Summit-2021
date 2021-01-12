@@ -46,8 +46,7 @@ This repository includes the references used for the presentation titled "Still 
 <table>
     <tr>
         <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
+            <a href="https://crits.github.io/" target="_blank">Collaborative Research Into Threats (CRITs)</a>
         </td>
         <td>
             <a>Open Source</a>
@@ -55,8 +54,31 @@ Research Into Threats (CRITs)</a>
     </tr>
     <tr>
         <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
+            <a href="https://csirtgadgets.com/collective-intelligence-framework" target="_blank">Collective Intelligence Framework (CIF)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.misp-project.org/" target="_blank">Malware Information Sharing Platform (MISP)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://yeti-platform.github.io/" target="_blank">Yeti</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.opencti.io/en/" target="_blank">OpenCTI</a>
         </td>
         <td>
             <a>Open Source</a>
@@ -136,35 +158,7 @@ Research Into Threats (CRITs)</a>
     </tr>
      <tr>
         <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
-        </td>
-        <td>
-            <a>Open Source</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
-        </td>
-        <td>
-            <a>Open Source</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
-        </td>
-        <td>
-            <a>Open Source</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
+            <a href="https://crits.github.io/" target="_blank">Celerium</a>
         </td>
         <td>
             <a>Open Source</a>
