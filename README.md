@@ -39,3 +39,18 @@ This repository includes the references used for the presentation titled "Still 
 
 2. BSidesNOVA - Jason Wonn - TIP of the Spear: A Threat Intelligence Platform Acquisition https://www.youtube.com/watch?v=ynm90wZLjNY&feature=emb_logo
 3. Frost & Sullivan - Assessment of the Global Threat Intelligence Platforms Market, Forecast to 2022 - https://www.reportlinker.com/p05974250/Assessment-of-the-Global-Threat-Intelligence-Platforms-Market-Forecast-to.html?utm_source=GNW
+
+
+# Threat Intelligence Platforms
+
+<table>
+    <tr>
+        <td>
+            <a href="https://www.sans.org/reading-room/whitepapers/ActiveDefense/paper/36240" target="_blank">Collaborative
+Research Into Threats (CRITs)</a>
+        </td>
+        <td>
+            <a>Open Source</a>
+        </td>
+    </tr>
+ </table>
