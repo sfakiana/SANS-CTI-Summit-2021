@@ -37,6 +37,7 @@ This repository includes the references used for the presentation titled "Still 
 # Looking ahead
 
 2. BSidesNOVA - Jason Wonn - TIP of the Spear: A Threat Intelligence Platform Acquisition https://www.youtube.com/watch?v=ynm90wZLjNY&feature=emb_logo
+2. FIRST CTI 2019 - Pasquale Stirparo - Your requirements are not my requirements - https://www.first.org/resources/papers/london2019/1430-1500-Your-Requirements-are-Not-My-Requirements-Speaker-Pasquale-Stirparo.pdf
 3. Frost & Sullivan - Assessment of the Global Threat Intelligence Platforms Market, Forecast to 2022 - https://www.reportlinker.com/p05974250/Assessment-of-the-Global-Threat-Intelligence-Platforms-Market-Forecast-to.html?utm_source=GNW
 
 
