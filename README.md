@@ -1,5 +1,5 @@
 # SANS CTI Summit 2021
-This repository includes the references used for the presentation titled "Still thinking about your Ex(cel)? Here are some TIPs" (alternative title is Technology enablement in the intelligence cycle and the role of Threat Intelligence Platforms). The presentation took place during SANS CTI Summit 2021 on 21-22 January 2021.
+This repository includes the references used for the presentation titled "Still thinking about your Ex(cel)? Here are some TIPs" (alternative title is The past, present and future of Threat Intelligence Platforms). The presentation took place during SANS CTI Summit 2021 on 21-22 January 2021.
 
 # The brief history of TIPs
 
