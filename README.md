@@ -21,7 +21,7 @@ This repository includes the references used for the presentation titled "Still 
 11. ENISA - Andreas Sfakianakis, Razvan Gavrila - Exploring the opportunities and limitations of current Threat Intelligence Platforms
  https://www.enisa.europa.eu/publications/exploring-the-opportunities-and-limitations-of-current-threat-intelligence-platforms
 12. S. Caltagirone,  Threat Intelligence Definition: What is Old is New Again - http://www.activeresponse.org/threat-intelligence-definition-old-new/
-11. threatintel.eu - Requirements Spreadsheet for Threat Intelligence Platforms - https://threatintel.eu/2021/01/11/requirements-spreadsheet-for-threat-intelligence-platforms/
+11. threatintel.eu - Exceling at Threat Intelligence Platform (TIP) requirements - https://threatintel.eu/2021/01/22/exceling-at-threat-intelligence-platform-tip-requirements/
 13. Andy Piazza - https://medium.com/@andy.c.piazza/an-analysts-need-for-a-threat-intelligence-platform-43f9258ac22d
 
 15. threatintel.eu - Andreas Sfakianakis - A Study on Threat Intelligence Platforms (TIPs) - https://threatintel.eu/2018/04/04/a-study-on-threat-intelligence-platforms/
