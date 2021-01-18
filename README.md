@@ -157,7 +157,7 @@ This repository includes the references used for the presentation titled "Still 
     </tr>
       <tr>
         <td>
-            <a href="https://cyware.com/" target="_blank">Cyware</a>
+            <a href="https://analyst1.com/" target="_blank">Analyst1</a>
         </td>
         <td>
             <a>Commercial</a>
@@ -165,7 +165,7 @@ This repository includes the references used for the presentation titled "Still 
     </tr>
      <tr>
         <td>
-            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+            <a href="https://www.lookingglasscyber.com/" target="_blank">LookingGlass</a>
         </td>
         <td>
             <a>Commercial</a>
@@ -173,7 +173,7 @@ This repository includes the references used for the presentation titled "Still 
     </tr>
       <tr>
         <td>
-            <a href="https://cyware.com/" target="_blank">Cyware</a>
+            <a href="https://kingandunion.com/" target="_blank">King & Union</a>
         </td>
         <td>
             <a>Commercial</a>
@@ -181,122 +181,26 @@ This repository includes the references used for the presentation titled "Still 
     </tr>
      <tr>
         <td>
-            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+            <a href="https://otx.alienvault.com/" target="_blank">AlienVault Open Threat Exchange (OTX)</a>
         </td>
         <td>
-            <a>Commercial</a>
+            <a>Community Threat Exchange Platform</a>
         </td>
     </tr>
       <tr>
         <td>
-            <a href="https://cyware.com/" target="_blank">Cyware</a>
+            <a href="https://exchange.xforce.ibmcloud.com/" target="_blank">IBM X-Force Exchange</a>
         </td>
         <td>
-            <a>Commercial</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
-        </td>
-        <td>
-            <a>Commercial</a>
-        </td>
-    </tr>
-      <tr>
-        <td>
-            <a href="https://cyware.com/" target="_blank">Cyware</a>
-        </td>
-        <td>
-            <a>Commercial</a>
+            <a>Community Threat Exchange Platform</a>
         </td>
     </tr>
      <tr>
         <td>
-            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+            <a href="https://www.misp-project.org/communities/" target="_blank">MISP Communities</a>
         </td>
         <td>
-            <a>Commercial</a>
-        </td>
-    </tr>
-      <tr>
-        <td>
-            <a href="https://cyware.com/" target="_blank">Cyware</a>
-        </td>
-        <td>
-            <a>Commercial</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
-        </td>
-        <td>
-            <a>Commercial</a>
-        </td>
-    </tr>
-      <tr>
-        <td>
-            <a href="https://cyware.com/" target="_blank">Cyware</a>
-        </td>
-        <td>
-            <a>Commercial</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
-        </td>
-        <td>
-            <a>Commercial</a>
-        </td>
-    </tr>
-      <tr>
-        <td>
-            <a href="https://cyware.com/" target="_blank">Cyware</a>
-        </td>
-        <td>
-            <a>Commercial</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
-        </td>
-        <td>
-            <a>Commercial</a>
-        </td>
-    </tr>
-      <tr>
-        <td>
-            <a href="https://cyware.com/" target="_blank">Cyware</a>
-        </td>
-        <td>
-            <a>Commercial</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
-        </td>
-        <td>
-            <a>Commercial</a>
-        </td>
-    </tr>
-      <tr>
-        <td>
-            <a href="https://cyware.com/" target="_blank">Cyware</a>
-        </td>
-        <td>
-            <a>Commercial</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
-        </td>
-        <td>
-            <a>Commercial</a>
+            <a>Community Threat Exchange Platform</a>
         </td>
     </tr>
  </table>
