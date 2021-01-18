@@ -101,64 +101,202 @@ This repository includes the references used for the presentation titled "Still 
     </tr>
      <tr>
         <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
+            <a href="https://threatconnect.com/" target="_blank">ThreatConnect</a>
         </td>
         <td>
-            <a>Open Source</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
-        </td>
-        <td>
-            <a>Open Source</a>
+            <a>Commercial</a>
         </td>
     </tr>
      <tr>
         <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
+            <a href="https://www.anomali.com/products/threatstream" target="_blank">Anomali's ThreatStream</a>
         </td>
         <td>
-            <a>Open Source</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
-        </td>
-        <td>
-            <a>Open Source</a>
+            <a>Commercial</a>
         </td>
     </tr>
      <tr>
         <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
+            <a href="https://www.eclecticiq.com/platform" target="_blank">EclecticIQ Platform</a>
         </td>
         <td>
-            <a>Open Source</a>
-        </td>
-    </tr>
-     <tr>
-        <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
-        </td>
-        <td>
-            <a>Open Source</a>
+            <a>Commercial</a>
         </td>
     </tr>
      <tr>
         <td>
-            <a href="https://crits.github.io/" target="_blank">Celerium</a>
+            <a href="https://www.threatq.com/threat-intelligence-platform/" target="_blank">ThreatQuotient</a>
         </td>
         <td>
-            <a>Open Source</a>
+            <a>Commercial</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.trustar.co/product/platform" target="_blank">TruSTAR</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://cyware.com/" target="_blank">Cyware</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            <a href="https://cyware.com/" target="_blank">Cyware</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            <a href="https://cyware.com/" target="_blank">Cyware</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            <a href="https://cyware.com/" target="_blank">Cyware</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            <a href="https://cyware.com/" target="_blank">Cyware</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            <a href="https://cyware.com/" target="_blank">Cyware</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            <a href="https://cyware.com/" target="_blank">Cyware</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            <a href="https://cyware.com/" target="_blank">Cyware</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            <a href="https://cyware.com/" target="_blank">Cyware</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            <a href="https://cyware.com/" target="_blank">Cyware</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
+     <tr>
+        <td>
+            <a href="https://www.celerium.com/" target="_blank">Celerium</a>
+        </td>
+        <td>
+            <a>Commercial</a>
         </td>
     </tr>
  </table>
