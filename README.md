@@ -85,8 +85,7 @@ This repository includes the references used for the presentation titled "Still 
     </tr>
      <tr>
         <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
+            <a href="https://threatnote.io/" target="_blank">threatnote.io</a>
         </td>
         <td>
             <a>Open Source</a>
@@ -94,8 +93,7 @@ Research Into Threats (CRITs)</a>
     </tr>
      <tr>
         <td>
-            <a href="https://crits.github.io/" target="_blank">Collaborative
-Research Into Threats (CRITs)</a>
+            <a href="https://www.paloaltonetworks.com/products/secure-the-network/subscriptions/minemeld" target="_blank">MineMeld</a>
         </td>
         <td>
             <a>Open Source</a>
