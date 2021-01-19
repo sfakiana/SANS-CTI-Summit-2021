@@ -187,6 +187,14 @@ This repository includes the references used for the presentation titled "Still 
             <a>Commercial</a>
         </td>
     </tr>
+  <tr>
+        <td>
+            <a href="https://d3intel.solutions/" target="_blank">D3 Intelligence</a>
+        </td>
+        <td>
+            <a>Commercial</a>
+        </td>
+    </tr>
      <tr>
         <td>
             <a href="https://otx.alienvault.com/" target="_blank">AlienVault Open Threat Exchange (OTX)</a>
