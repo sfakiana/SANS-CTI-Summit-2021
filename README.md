@@ -1,5 +1,8 @@
 # SANS CTI Summit 2021
-This repository includes the references used for the presentation titled "Still thinking about your Ex(cel)? Here are some TIPs" (alternative title is The past, present and future of Threat Intelligence Platforms). The presentation took place during SANS CTI Summit 2021 on 22 January 2021.
+This repository includes the references used for the presentation titled ["Still thinking about your Ex(cel)? Here are some TIPs"](https://www.youtube.com/watch?v=U7kuu7OFgYk)  (alternative title is The past, present and future of Threat Intelligence Platforms). The presentation took place during SANS CTI Summit 2021 on 22 January 2021.
+
+[![SANS CTI Summit 2021 Presentation](https://threatintelblog.files.wordpress.com/2021/04/screenshot-2021-04-06-at-01.26.01.png?w=520)](https://www.youtube.com/watch?v=U7kuu7OFgYk)
+
 
 # The brief history of TIPs
 
