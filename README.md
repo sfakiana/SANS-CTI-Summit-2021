@@ -192,7 +192,7 @@ This repository includes the references used for the presentation titled ["Still
     </tr>
   <tr>
         <td>
-            <a href="https://d3intel.solutions/" target="_blank">D3 Intelligence</a>
+            <a href="https://reqfast.com/" target="_blank">Reqfast</a>
         </td>
         <td>
             <a>Commercial</a>
